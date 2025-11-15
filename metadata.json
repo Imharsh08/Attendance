@@ -1,0 +1,5 @@
+{
+  "name": "Daily Attendance Sheet",
+  "description": "A web application to manage a daily attendance sheet using Google Sheets as a database. It features a one-click setup to create the necessary sheet structure and provides full CRUD (Create, Read, Update, Delete) functionality for attendance records.",
+  "requestFramePermissions": []
+}
